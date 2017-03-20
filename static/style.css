@@ -1,0 +1,28 @@
+button[disabled]{
+color : graytext;
+}
+
+body{
+margin-left : 30% !important;
+margin-right : 30% !important;
+}
+
+.main-image{
+    margin-bottom: 20px;
+    height : 200px;
+    border-radius : 10px;
+}
+
+.small-image{
+width : 70px;
+height : 60px !important;
+border-radius : 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.live_review{
+background-color : rgba(0,0,0,0.04);
+}
